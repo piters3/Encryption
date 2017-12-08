@@ -110,5 +110,10 @@
   <ItemGroup>
     <Folder Include="Properties\DataSources\" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="TestFile.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
