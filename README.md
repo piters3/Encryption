@@ -7,7 +7,8 @@ WPF application used to:
 
 ### Prerequisites
 
-This project was created in Visual Studio 2017 Community
+This project was created in Visual Studio 2017 Community. It includes packages:
+* EntityFramework 6.1.3
 
 ## License
 
